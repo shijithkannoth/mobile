@@ -8,5 +8,6 @@ public class Config {
 	
 	public static AndroidDriver driver;
 	public static WebDriver driver ;
+	public static RemoteWebDriver driver;
 
 }
